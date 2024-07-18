@@ -207,5 +207,10 @@ st.markdown("""
 # Footer
 st.markdown("""
 ---
-© 2024 Todos los derechos reservados. Creado por jahoperi
-""")
+#© 2024 Todos los derechos reservados. Creado por jahoperi
+#""")
+
+# Copyright
+st.sidebar.text("© 2024 Todos los derechos reservados. Creado por jahoperi")
+
+
